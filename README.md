@@ -1,2 +1,2 @@
-#Daily-UI
+#Daily-UI.
 Different UI designs.
